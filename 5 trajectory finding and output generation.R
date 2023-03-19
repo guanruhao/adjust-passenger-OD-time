@@ -75,7 +75,7 @@ find_trajectory=function(time,num_passenger) {
   return(0)
 }
 
-#or do the following step to fine source in github
+#or do the following step to fine source in github, that you can have same functions as above
 library(devtools)
 source_url("https://raw.githubusercontent.com/guanruhao/function-repo/main/function%20simu%20and%20find%20trajectory.R")
 

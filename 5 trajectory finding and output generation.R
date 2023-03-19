@@ -1,6 +1,6 @@
 
 library(devtools)
-source_url('https://raw.githubusercontent.com/guanruhao/changchun-city-subway/main/4%20upgrade%20of%20passenger%20info.R')
+source_url('https://raw.githubusercontent.com/guanruhao/adjust-passenger-OD-time/main/4%20upgrade%20of%20passenger%20info.R')
 #this function is to return the more detailed information about the passenger
 
 
